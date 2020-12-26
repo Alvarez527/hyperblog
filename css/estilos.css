@@ -18,3 +18,18 @@ body{
 #container h1{
     font-size: 20px;;
 }
+
+#cabecera{
+    background-color: blue;
+
+}
+
+#cabecera h1{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;;
+    
+}
+#cabecera span{
+    color: white;
+}
